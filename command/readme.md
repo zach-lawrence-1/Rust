@@ -1,7 +1,10 @@
+# Command line interface in rust
+
+## Personal notes
 This is a showcase of my first rust project which will help me to learn and better understand rust. 
 As time goes on, improvements will be seen in the projects features, the ways I use different rust features, and my overall coding ability in rust.
 
-v 0.2 notes:
+## V 0.2 notes
 After abandoning a different rust project earlier this summer due to its size and required experience/knowledge I decided to 
 continue working on this command line project. I added test cases and the ls command in it's entirety. 
 This includes directories now having a blue color, option arguments working now, and the ability of listing multiple 
